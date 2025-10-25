@@ -1,0 +1,3 @@
+﻿  ProblemNum5.cpp
+D:\ProjectsProgram\ProblemsSolvingLevelTwo\ProblemNum5\ProblemNum5.cpp(25,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ProblemNum5.vcxproj -> D:\ProjectsProgram\ProblemsSolvingLevelTwo\ProblemNum5\x64\Debug\ProblemNum5.exe

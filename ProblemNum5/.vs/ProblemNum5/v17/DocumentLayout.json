@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjectsProgram\\ProblemsSolvingLevelTwo\\ProblemNum5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D29A8305-DEFC-4FA2-A6B8-564383B31D72}|ProblemNum5.vcxproj|D:\\ProjectsProgram\\ProblemsSolvingLevelTwo\\ProblemNum5\\ProblemNum5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D29A8305-DEFC-4FA2-A6B8-564383B31D72}|ProblemNum5.vcxproj|solutionrelative:ProblemNum5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProblemNum5.cpp",
+              "DocumentMoniker": "D:\\ProjectsProgram\\ProblemsSolvingLevelTwo\\ProblemNum5\\ProblemNum5.cpp",
+              "RelativeDocumentMoniker": "ProblemNum5.cpp",
+              "ToolTip": "D:\\ProjectsProgram\\ProblemsSolvingLevelTwo\\ProblemNum5\\ProblemNum5.cpp",
+              "RelativeToolTip": "ProblemNum5.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-25T13:52:28.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
