@@ -1,0 +1,5 @@
+﻿  ProblemNum2.cpp
+D:\ProjectsProgram\ProblemsSolvingLevelTwo\ProblemNum2\ProblemNum2.cpp(21,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\ProjectsProgram\ProblemsSolvingLevelTwo\ProblemNum2\ProblemNum2.cpp(31,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\ProjectsProgram\ProblemsSolvingLevelTwo\ProblemNum2\ProblemNum2.cpp(59,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ProblemNum2.vcxproj -> D:\ProjectsProgram\ProblemsSolvingLevelTwo\ProblemNum2\x64\Debug\ProblemNum2.exe
