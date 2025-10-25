@@ -1,0 +1,5 @@
+﻿  ProblemNum3.cpp
+D:\ProjectsProgram\ProblemsSolvingLevelTwo\ProblemNum3\ProblemNum3.cpp(17,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\ProjectsProgram\ProblemsSolvingLevelTwo\ProblemNum3\ProblemNum3.cpp(37,9): warning C4551: function call missing argument list
+D:\ProjectsProgram\ProblemsSolvingLevelTwo\ProblemNum3\ProblemNum3.cpp(46,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ProblemNum3.vcxproj -> D:\ProjectsProgram\ProblemsSolvingLevelTwo\ProblemNum3\x64\Debug\ProblemNum3.exe
