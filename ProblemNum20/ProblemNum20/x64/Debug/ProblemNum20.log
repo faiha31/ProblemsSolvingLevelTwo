@@ -1,0 +1,3 @@
+﻿  ProblemNum20.cpp
+D:\ProjectsProgram\ProblemsSolvingLevelTwo\ProblemNum20\ProblemNum20.cpp(30,1): warning C4715: 'GetRandomCharacter': not all control paths return a value
+  ProblemNum20.vcxproj -> D:\ProjectsProgram\ProblemsSolvingLevelTwo\ProblemNum20\x64\Debug\ProblemNum20.exe
