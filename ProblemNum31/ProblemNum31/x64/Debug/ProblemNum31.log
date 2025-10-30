@@ -1,0 +1,3 @@
+﻿  ProblemNum31.cpp
+D:\ProjectsProgram\ProblemsSolvingLevelTwo\ProblemNum31\ProblemNum31.cpp(70,20): warning C4101: 'arrSum': unreferenced local variable
+  ProblemNum31.vcxproj -> D:\ProjectsProgram\ProblemsSolvingLevelTwo\ProblemNum31\x64\Debug\ProblemNum31.exe
