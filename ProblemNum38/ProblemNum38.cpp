@@ -69,7 +69,7 @@ int main()
     PrintArray(arr1, Arr1Length);
 
 
-    cout << endl << "Array2 Elements After Copy : \n";
+    cout << endl << "Array2 Odd Numbers : \n";
     PrintArray(arr2, Arr2Length);
 
 
