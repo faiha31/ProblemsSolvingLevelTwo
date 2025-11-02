@@ -1,0 +1,3 @@
+﻿  ProblemNum39.cpp
+D:\ProjectsProgram\ProblemsSolvingLevelTwo\ProblemNum39\ProblemNum39.cpp(51,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ProblemNum39.vcxproj -> D:\ProjectsProgram\ProblemsSolvingLevelTwo\ProblemNum39\x64\Debug\ProblemNum39.exe
