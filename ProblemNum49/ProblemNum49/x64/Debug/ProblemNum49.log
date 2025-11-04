@@ -1,0 +1,3 @@
+﻿  ProblemNum49.cpp
+D:\ProjectsProgram\ProblemsSolvingLevelTwo\ProblemNum49\ProblemNum49.cpp(33,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  ProblemNum49.vcxproj -> D:\ProjectsProgram\ProblemsSolvingLevelTwo\ProblemNum49\x64\Debug\ProblemNum49.exe
